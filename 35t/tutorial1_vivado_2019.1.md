@@ -26,7 +26,7 @@ Register with http://www.xilinx.com, download and install Xilinx Vivado 2019.1
 
 (2019.1 is the last major version before Xilinx began changing Vivado SDK to Vitis, and the UI matches the 2018 version used in the M3 tutorials and documentation)
 
-   
+   Cancel changes
 ### Getting Prepared:
 Download four files:
 
@@ -48,7 +48,7 @@ C:\fpga\ARM_Cortex_M3_2019.1\hardware\m3_for_arty_a7\testbench\Micron_N25Q128A13
 	to<br>
 	C:\fpga\ARM_Cortex_M3_2019.1\hardware\m3_for_arty_a7\testbench<br>
 
- 4. Download Cypress flash memory model:  https://www.cypress.com/verilog/s25fl128s-verilog
+ 4. Download Cypress flash memory tps://www.cypress.com/verilog/s25fl128s-verilog
 	- It comes as a <number>.zip file, decompress to reveal S25fl128s.exe
 	- Execute the installer, point it at C:\fpga\ARM_Cortex_M3_2019.1\hardware\m3_for_arty_a7\testbench
 	- It should create directory C:\fpga\ARM_Cortex_M3_2019.1:\hardware\m3_for_arty_a7\testbench\S25fl128s
